@@ -1,0 +1,143 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Lettre du roy de la Grande Bretagne au Lord Comte Portland. Guillaume Roy</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A66153</idno>
+            <idno type="STC">Wing W2368</idno>
+            <idno type="STC">ESTC R217358</idno>
+            <idno type="EEBO-CITATION">99829030</idno>
+            <idno type="PROQUEST">99829030</idno>
+            <idno type="VID">33465</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A66153)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 33465)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1860:20)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Lettre du roy de la Grande Bretagne au Lord Comte Portland. Guillaume Roy</title>
+                  <author>William III, King of England, 1650-1702, attributed name.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1690]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Not in fact by William III; a forgery. Cf. Wing.</note>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Reproduction of the original in the Trinity College Library, University of Cambridge.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="fre">fre</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  William and Mary, 1689-1702.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-03</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2013-03</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="fre">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:33465:1" rendition="simple:additions"/>
+            <head>LETTRE DU ROY DE LA GRANDE BRETAGNE au Lord Comte Portland.</head>
+            <opener>
+               <signed>GUILLAUME ROY.</signed>
+            </opener>
+            <p>MOn Couſin, quoy qu'avant voſtre départ pour la Hollande je vous aye amplement expliqué mes intentions, je ne laiſſe pas de vous écrire la Preſente pour vous faire part des reflexions nouvel<g ref="char:EOLhyphen"/>les que j'ay faites depuis voſtre embarquement; afin que les joignant à vos premieres inſtructions, vous en puiſſez tirer le fruit qui convient dans la conjoncture preſente.</p>
+            <p>Plus j'enviſage l'atteinte que. ville d'Amſterdam vient de donner à mon autorité, &amp; le prejudice qu'elle peut porter au bien particulier de mon Service, &amp; á celuy de la Chreſtienté moins je puis me reſoudre à me relâcher de mes droits, &amp; à ſouſcrire à la requeſte de ces Magi<g ref="char:EOLhyphen"/>ſtrats injuſtes &amp; méconnoiſſans, qui oublient les ſervices ſignalez que mes Peres &amp; moy avons rendus à cet Etat depuis l'établiſſement de la Republique, &amp; ſe laiſſant ſeduire par quelques eſprits ſeditieux &amp; ja<g ref="char:EOLhyphen"/>loux de ma Grandeur &amp; de mon credit dans ces Provinces, profitent de mon abſence &amp; des Engagemens dans leſquels je me tronve, &amp; veulent faire revivre une pretention qui eſt auſſi chimerique &amp; auſſi mal-fondée, qu'elle eſt injurieuſe à ma gloire.</p>
+            <p>En effet, quiconque examinera ſans prevention les titres ſur leſquels cette puiſſante &amp; ſeditieuſe Ville, appuye le droit de ſe ſouſtraire de l'autorité du Statholder, les trouvera ſi peu ſolides, qu'il ſera ſurpris qu'aucun homme ſenſé puiſſe y donner la moindre attention: Elle pro<g ref="char:EOLhyphen"/>duit de pretendus privileges qui lui ont eſté accordez en divers temps par Marie &amp; par Philippes II. &amp; qui ont eſté confirmez depuis l'éta<g ref="char:EOLhyphen"/>bliſſement de la Republique par les Etats meſmes au préjudice d'un de mes Anceſtres: Elle a<gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> gue en meſme temps l'obligation à laquelle elle s'eſt engagée par ſerment ſolemnel à chaque mutation de Magi<g ref="char:EOLhyphen"/>ſtrats, de maintenir leſdits privileges. Pour détruire des droits auſſi mal établis, il ne faut que conſulter les Loix de la Republique, qui lors de ſa fondation en ſupprimant le gouvernement Monarchique, ont en meſme temps abrogé rous les privileges, &amp; toutes les Con<g ref="char:EOLhyphen"/>ceſſions accordées par les Souverains; Si cette abrogation n'a pas eſté faite par des Actes exprés, elle l'a eſté du moins tacitement, par<g ref="char:EOLhyphen"/>ce que ces ſortes de prerogatives ne conviennent point à l'état d'une Republique, ny à l'égalité &amp; à l'union qui doivent regner par<g ref="char:EOLhyphen"/>my tous les Membres qui la compoſent. D'ailleurs, les pretendus Actes que les Etats ont donnez en divers temps en faveur de cette Ville contre vn de mes Anceſtres, ne peuvent pas eſtre des titres
+<pb n="2" facs="tcp:33465:2"/>valables contre les droits de la Charge de Statholder que j'ay bien voulu conſerver; puis qu'alors la Republique eſtant encore naiſſan<g ref="char:EOLhyphen"/>te, on ne conſultoit pas toûjours les Loix &amp; la Juſtice dans les Deci<g ref="char:EOLhyphen"/>ſions des Etats; on eſtoit obligé de s'accommoder au temps, &amp; de ſouſcrire aux demandes quoi qu'injuites des Villes, pour ne point al<g ref="char:EOLhyphen"/>grir les peuples, &amp; pour ne pas réveiller un reſte d'inclination pour leurs anciens Princes, qui n'eſtoit pas tout à fait éteint dans leurs coeurs. Ce que je vous dis eſt ſi vray, que depuis que le Gouverne<g ref="char:EOLhyphen"/>ment a eſté ſolidement établi, les Etats reconnoiſſant l'injuſtice de certains Actes que la neceſſité des temps avoit arraché d'eux, y ont dérogé ſagement dans la ſuite. Je pourrois meſme pour aneantir ces pretendus droits, avoir recours à la preſcription, puiſque depuis prés d'un ſiecle ceux d'Amſterdam ne ſe ſont point aviſez de les faire revivre, quoy que l'occaſion s'en ſoit preſentée pluſieurs ſois pen<g ref="char:EOLhyphen"/>pelloit en vn pais étranger, pour y commander les armées. Alors ceux qui exercoient la Magiurature à Amſterdam plus inſtruits de leurs devoirs, &amp; moins ambitieux que ceux de ce temps-cy, ne croyoient pas que ce ſuſt déroger aux droits &amp; aux privileges anciens de leurs Villes, que d'envoyer demander les ſuffrages du Statholder abſent, pour le choix des Bourguemeſtres &amp; des Echevins. En dernier lieu meſme lorſque le bien de mon ſervice, ou celuy de l'Etat m'ont ap<g ref="char:EOLhyphen"/>pellé hors de ces Provinces; ils n'ont fait aucune difficulté d'avoir tures. Je reconnoit à ce trait injurieux, l'ancienne averſion de certe Ville pour la grandear de ma Maiſon, &amp; l'oppoſition qu'elle a toújours affecté de montrer à coutes les propoſitions que je faiſois autrefois pour le bien de la Republique; mais ce qui me ſurprend le plus c'eſt l'aveuglement des Membres des Etats, meſme des plus cclairez, qui ſe laiſſent faſciner les yeux par les inſinuations trompcuſes de cetre artificicuſe Ville, &amp; qui ne s'apperçoivent pas du piege qu'elle leur tend; car elle les ſurpreud avec adreſſe en reveſtiſſant ſon mauvis deſſein d'une fauſſe apparence de neceſſité &amp; de juſtice, pour pouvoir plus impunément aneantir le reſte de l'autorité du Statholder, &amp; in<g ref="char:EOLhyphen"/>troduire enſuite dans la Megiſtrature des gens à ſa devotion, dont les ſuffrages lui ſoient aſſurez, ſoit pour ſe ſeparer de l'union des Pro<g ref="char:EOLhyphen"/>vinces ſi elle le juge à propos, ſoit pour les engager à ſe ſeparer de la ligue, &amp; à conclure à ſa fantaiſie une paix auſſi <gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>onteuſe que celle de 1678. en demeurant unie avec elles. ſe ne ſçav point quelle reſolu<g ref="char:EOLhyphen"/>tion les Etats prendront ſur une affaire auſſi delica e que celle-cy, mais j'ay peine à croire qu'ils imitent leurs predeceſſeurs, en acquieſçant contre moy à l'injuſte &amp; dangereuſe demande de cene Ville, &amp; qu'ils manquent en cette occaſion au reſpe<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t, a la conſideration &amp; à la reconnoiſſance qu'ils me doivent: je ſcay bien que <gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ls prennent ce party, je ne ſeray pas ſi traitable, ny ſi complaiſant que celuy de
+<pb n="3" facs="tcp:33465:2"/>mes Anceſtres, à qui ils firent ce paſſe-droit. Comme ma fortune, mon elévation, &amp; mon caractere, ſont infiniment au deſſus de ceux dont il eſtoit alors reveſtu; ils doivent auſſi s'attendre à vn reſſenti<g ref="char:EOLhyphen"/>ment different &amp; proportionné à mon rang &amp; à mon genie, &amp; compter que quand un Roy a bien voulu s'abaiſſer juſques à ne point mépriſer l'employ de leur Statholder, non ſeulement ils ne doivent pas penſer à en diminuer l'antorité &amp; les prerogatives, mais qu'ils doi<g ref="char:EOLhyphen"/>vent au contraire en meſuret l'étendue à la Grandeur &amp; à la Majeſte Royale. Je ne ſuis pas cependant ſi peu informe de mes veritables intereſts, que je ne ſçache que mon ſort eſt comme attache à l'a<g ref="char:EOLhyphen"/>mitie &amp; à la protection des Etais. &amp; que lors que je hazarde de me brouiller avec eu<gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>, je commets mon établiſſement en Angle<g ref="char:EOLhyphen"/>terre dont vous connoiſſez auſſi bien que moy l'incertitude &amp; le pen de ſolidité. Mais il n'importe, quelque riſque que je puiſſe courir; il n'y a extremité à laquelle je ne me porte pour ſoûtenir mon rang &amp; ma gloire, quiconque a oſé entreprendre l'affaire d'Angleterre peut n'eitre pas aimé, mais il doit eſtre craint &amp; menagé; qui a ſçû reduire la Ville de Londres du moins auſſi ſauvage &amp; auſſi difficile a gouvernor que celle d'Amſterdam, peut bien mettre cette derniere Ville à la raiſon, &amp; la faire repentir de ſon ingrati<g ref="char:EOLhyphen"/>tude. Entrez dans mon eſprit &amp; dans ma penſez, &amp; inſinuez vive<g ref="char:EOLhyphen"/>ment aux Etats la ferme reſolution que j'ay priſe de ne me point relâ<g ref="char:EOLhyphen"/>cher de mes droits, s'ils ne me rendent pas la juſtice qu'ils me doi<g ref="char:EOLhyphen"/>vent. Le reſſentiment que je ſeray eſelater contre eux, m'acrediterà peut-eſtre en Angleterre &amp; m'affermira ſur le Trône; car enſin je connois l'ancienne jalouſie des deux Nations l'une contre l'autre; je ſçay que le commerce a toûjours eſté la Pomme de diſcorde entre el<g ref="char:EOLhyphen"/>les, ainſi je ne doute pas que la propoſition de ruiner le commerce de Hollande ne ſoit agreablement reçûe en Angleterre, &amp; ne reuniſſe en ma faveur les Anglois, auprés deſquels les engagemens étraits que j'ay avec les Etats, me rendront toûjours ſuſpect. Vous m'alleguerez ſans doute que la France ne manqueroit pas de proſiter de ce deſordre, &amp; qu'enfin le mal-heur en retomberoit peut-eſtre ſur moy; j'en convien<g ref="char:EOLhyphen"/>dray avec vous, mais on ſacrifie ſouvent la politique à la vengeance, &amp; cette Couronne qui eſt peut-eſtre moins agrie contre les Anglois que contre les Hollandois, qu'elle regarde comme les inſtrumens &amp; les ino<g ref="char:EOLhyphen"/>teurs de cette guerre, ſuivroit peut-eſtre les meſmes maximes, pour<g ref="char:EOLhyphen"/>vû que d'ailleurs elle y trouvaſt également ſon compte. Je remets à voſtre prudence la conduite de cette affaire, &amp; vous recommande de vous ſervir de toute voſtre adreſſe, pour la faire reuſſir á mon avantage; mais ſur tout apprenez à connoiſtre le caractere des Repub<g ref="char:EOLhyphen"/>liques, auprés deſquelles if faut moins employer la douçeur que les menaces; la premier voye les rendant ordinairement fieres &amp; intrai<g ref="char:EOLhyphen"/>tables, &amp; l'autre produiſſant un effet contraire. Sur tout, ne re<g ref="char:EOLhyphen"/>cherchez point avec trop d'empreſſement les amis &amp; les ſerviteurs
+<pb n="4" facs="tcp:33465:3"/>que j'ay en Hollande, car quelque affectionnez qu'ils me puiſſent eſtre, quand ils ne ſont pas contenus dans le devoir par ma preſence, ils ſont toûjours Hollandois, c'eſt à dire Republicains, ennemis du Stat<g ref="char:EOLhyphen"/>holder, &amp; ſuſceptibles de l'eſprit ſeditieux des anciennes Factions, que vous ſçavez n'avoir pas eſté entierement étouffées dans le ſang des de-Witt; ce que je vous dis, n'eſt pas ſeulement fondé ſur la connoiſ<g ref="char:EOLhyphen"/>ſance particuliere que j'ay du genie de ces Peuples, mais encore ſur les avis que j'ay receûs de ceux qui par devoir ou par inclination me ſont les plus affectionnez; qui au lieu de deteſter un pareal attentat, &amp; de m'exciter à la vengeance, me convient mollement à ſoûtenir mes droit,, &amp; me font tacitement connoiſtre que l'acquieſcement qui vien<g ref="char:EOLhyphen"/>droit de ma part, ſeroit plus de leur gouſt que l'oppoſition &amp; la reſi<g ref="char:EOLhyphen"/>ſtance; tant eſt grand l'aveuglement des peuples, qui ont en general une averſion naturelle pour leurs ſuperieurs, quelques bien-faits &amp; quelques ſervices eſſentiels qu'ils en ayent receûs.</p>
+            <p>Si voſtre negociation reüſſiſſoit comme je le deſire, quoy qu'entre nous je n'oſe l'eſperer; parce qu'il me paroiſt un concere ferme entre ces gens là de diminuer l'autorité du Statholder, &amp; que d'ailleurs le long commerce que j'ay eû avec eux, m'a appris que je n'y pouvois prendre que tres-peu de confiance, lors qu'il s'agiſſoit de lour Intereſts. Sollicitez puiſſamment les Etats de m'envoyer au Prin-temps prochain, s'il eſt poſſible, vn renfort de troupes Hollandoiſes, pour employer à la conqueſte du reſte de l'Irlande, &amp; repreſentez leur vivement non pas tant par rapport à moy, parce que cela poutroit leur eſtre ſuſpect, que par rapport à la guerre dans laquelle iſs ſont engagez contre la France, &amp; à la dimmution de la dépenſe, qui eſt, comme vous ſçavez, vn puiſſant charme pour eux; que ſans ce ſecours, que j'offre d'entretenir à mes dépens, j'auray peine à venir a bout de mes deſſeins &amp; à conſommer heureuſement cette enterpriſe. Menagez ce<g ref="char:EOLhyphen"/>pendant cette negociation avec beaucop de delicateſſe &amp; d'habileté car ſi vous témoigniez de l'empreſſement, ils ſont aſſez ſoup çonneux pour croire que je leur ferois cette demande plûtoſt pour me rendre Maiſtre de leurs forces, &amp; pour les reduire à ſe ſoumettre à mes vo<g ref="char:EOLhyphen"/>lontez, que pour terminer l'expedition d'irlande. Cependant quoy que j'aye pris des meſures pour tirer des troupes d'Allemagne, je ne me fçaurois que difficilement poſſer de celles de Hollande; car ſans cela, veû les renforts conſiderables que le Roy tres-Chreſtien ſe diſpoſe à faire paſſer en Irlande je ſenois obligé d'avoir recours aux Anglois, que je n'oſerois armer non plus que des furicux, &amp; deſquels je ne dois pas attendre plus de fidelité &amp; d'affection, qu'ils en ont témoi<g ref="char:EOLhyphen"/>gné au Roy Jaques mon predeceſſeur lorſque je ſuis entré en An<g ref="char:EOLhyphen"/>gleterre; ſur ce je prie Dieu, mon Couſin, &amp;c.</p>
+            <closer>
+               <dateline>Donne à Vitehal <date>le 20. Janvier 1690.</date>
+               </dateline>
+               <signed>GUILLAUME.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
